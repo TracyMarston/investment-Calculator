@@ -1,7 +1,7 @@
 <h1>Simple Investment Calculator</h1>
 Date: 2018
 
-<h2>Summarize the project and what problem it was solving</h2>
+<h2>Summarize the project and what problem it was solving?</h2>
 <p> I was tasked with creating a investment calculator that would take the user's input (Initial Investment Amount / Monthly Deposit / Annual Interest Rate / Number of Years) and provide 2 yearly summary statements. The first yearly statement would provide interest accured with no monthly deposit and closing amount over each year. The second statement provided would provide interest accured with a monthly deposit and closing amount over each year. The program is flexible and allows the user to adjust their input.</p>
 
 <h2> What did you do particularly well?</h2>
