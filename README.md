@@ -1,4 +1,5 @@
 <h1>Simple Investment Calculator</h1>
+Course: Programming Languages <br />
 Date: 2018
 
 <h2>Summarize the project and what problem it was solving?</h2>
